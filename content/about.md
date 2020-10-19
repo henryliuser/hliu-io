@@ -4,7 +4,7 @@ draft: false
 ---
 Hi, this is my website. It's still under construction.
 
-![An old rock in the desert](/assets/me.jpg "Shiprock, New Mexico by Beau Rogers")
+![me](/assets/me.jpg "me")
 
 I'm currently studying Computer Science at UC Irvine. I got my start in computer science through game development. Right now, I'm working on a multiplayer platformer called Jumpers using Godot.
 
