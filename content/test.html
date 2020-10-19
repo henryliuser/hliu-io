@@ -1,18 +1,29 @@
+<!DOCTYPE html>
 <html>
-   <head>
-      <title>The jQuery Example</title>
-      <script type = "text/javascript" src = "/assets/jquery-3.5.1.min.js">
-      </script>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+video {
+  max-width: 100%;
+  height: auto;
+}
+.asd {
+  
+}
+</style>
+</head>
+<body>
 
-      <script type = "text/javascript">
-        $(document).mousemove(function(e){
-            $("#image").css({left:e.pageX-100, top:e.pageY});
-        });
-      </script>
-   </head>
+<div>
+  <video width="700" autoplay loop muted>
+    <source src="https://im.ezgif.com/tmp/ezgif-1-9e3e4567d4c1.mp4" type="video/mp4">
+    <source src="mov_bbb.ogg" type="video/ogg">
+    Your browser does not support HTML5 video.
+  </video>
+</div>
 
-   <body>
-     <img id="image" style="position:absolute"src="https://media11.s-nbcnews.com/j/msnbc/components/video/202010/mask_off_trump.nbcnews-fp-320-240.jpg"/>
-      <h1>Hello</h1>
-   </body>
+
+<p>Resize the browser window to see how the size of the video player will scale when the width is less than 400px.</p>
+
+</body>
 </html>
