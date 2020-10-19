@@ -55,19 +55,29 @@ copyright = "© {2020}"
 
 # Controls the navigation
 [[menu.main]]
-  identifier = "about"
-  name = "about"
-  title = "About"
+  identifier = "home"
+  name = "home"
+  title = "home"
+  weight="1"
   url = "/"
 
 [[menu.main]]
   identifier = "games"
   name = "games"
   title = "Games"
+  weight="2"
   url = "/games"
 
 [[menu.main]]
-  identifier = "posts"
-  name = "posts"
-  title = "Posts"
-  url = "/posts"
+  identifier = "projects"
+  name = "projects"
+  title = "Projects"
+  weight="3"
+  url = "/projects"
+
+[[menu.main]]
+  identifier = "about"
+  name = "about"
+  title = "About"
+  weight="4"
+  url = "/about.md"
