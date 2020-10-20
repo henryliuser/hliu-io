@@ -2,7 +2,7 @@
 title: "more about me"
 draft: false
 ---
-Hi, this is my website. It's still under construction. Built with [Hugo](https://gohugo.io/) and [Codex](https://themes.gohugo.io/hugo-theme-codex/) theme.
+Hi, this is my website. It's still under construction, but I'll post my least embarrassing work here. Built with [Hugo](https://gohugo.io/) and [Codex](https://themes.gohugo.io/hugo-theme-codex/) theme.
 
 
 I'm currently studying Computer Science at UC Irvine. I got my start in computer science through game development. Right now, I'm working on a multiplayer platformer called Jumpers using Godot.
