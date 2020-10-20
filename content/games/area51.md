@@ -7,7 +7,7 @@ layout: "single"
 Programming, Writing, Game Design: {{<hilite "Henry Liu," "#f4bbff">}} {{<hilite "Nidhir Guggilla" "#f4bbff">}}\
 Art, Graphics Design: {{<hilite "Regina Yu" "#f4bbff">}}
 {{<skip>}}
-{{< vidd "500px" "calc(100% - 30px)" "/assets/atsSplash.mp4" >}}
+{{< vidd "5000px" "calc(100% - 30px)" "/assets/atsSplash.mp4" >}}
 ### The year is 2119.
 - 100 years have passed since the legendary Area 51 raid... aliens have fully integrated into society.
 - You are a human, an 18-year old University Student in the United States. Your parents have kicked you out. You are on your own.

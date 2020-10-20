@@ -4,24 +4,44 @@ draft: false
 type: "games"
 layout: "single"
 ---
-Programming, Game Design: Henry Liu\
-Art, Graphics Design: Kethan Sivarapu
+Programming, Game Design: {{<hilite "Henry Liu" "#f4bbff">}}\
+Art, Graphics Design: {{<hilite "Kethan Sivarapu" "#f4bbff">}}
 ### 2D head-to-head multiplayer platforming
 
 {{<skip>}}
 ***
-Comment
+Added seesaw platforms and generic movement properties.
 {{<skip>}}
 {{< vidd "500px" "calc(100% - 30px)" "/assets/jumpers/platforms.mp4" >}}
 {{<skip>}}
 ***
-Comment
+I think the old Shade still looks nicer.
+{{<skip>}}
+{{< vidd "500px" "calc(100% - 30px)" "/assets/jumpers/newshade.mp4" >}}
+{{<skip>}}
+***
+Platform generation progress.
+{{<skip>}}
+{{< vidd "500px" "calc(100% - 30px)" "/assets/jumpers/platformgen.mp4" >}}
+{{<skip>}}
+***
+Bumper and missile spike obstacles.
+{{<skip>}}
+{{< vidd "500px" "calc(100% - 30px)" "/assets/jumpers/bumpers2.mp4" >}}
+{{<skip>}}
+***
+The light shield makes its debut!
+{{<skip>}}
+{{< vidd "500px" "calc(100% - 30px)" "/assets/jumpers/lightshield.mp4" >}}
+{{<skip>}}
+***
+Discovering new damage boosting movement tech.
 {{<skip>}}
 {{< vidd "500px" "calc(100% - 30px)" "/assets/jumpers/canjump0.mp4" >}}
 {{< vidd "500px" "calc(100% - 30px)" "/assets/jumpers/canjump.mp4" >}}
 {{<skip>}}
 ***
-Comment
+Potassium Cannon joins the fight!
 {{<skip>}}
 {{< vidd "500px" "calc(100% - 30px)" "/assets/jumpers/potcan.mp4" >}}
 {{<skip>}}
@@ -37,4 +57,4 @@ It does more than pack a punch -- it has movement utility as well.
 ***
 
 
-dfbindfivunsdv
+This page is still a stub. (it's missing a ton of content)
