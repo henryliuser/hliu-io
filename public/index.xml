@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Henry Liu</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Henry Liu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {2020}</copyright><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ain&#39;t That Sweet! - the search for an extraterrestrial Sugar Daddy :)</title>
+      <link>https://example.org/games/area51/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/games/area51/</guid>
+      <description>Programming, Writing, Game Design: Henry Liu,  Nidhir Guggilla  Art, Graphics Design: Regina Yu  
+your browser cannot load this video   The year is 2119.  100 years have passed since the legendary Area 51 raid&amp;hellip; aliens have fully integrated into society. You are a human, an 18-year old University Student in the United States. Your parents have kicked you out. You are on your own. Education in America still costs a fortune and you have no assets or belongings to your name.</description>
+    </item>
+    
+    <item>
+      <title>Jumpers (work in progress)</title>
+      <link>https://example.org/games/jumpers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/games/jumpers/</guid>
+      <description>Programming, Game Design: Henry Liu  Art, Graphics Design: Kethan Sivarapu  2D head-to-head multiplayer platforming 
+ Added seesaw platforms and generic movement properties. 
+your browser cannot load this video   
+ I think the old Shade still looks nicer. 
+your browser cannot load this video   
+ Platform generation progress. 
+your browser cannot load this video   
+ Bumper and missile spike obstacles.</description>
+    </item>
+    
+    <item>
+      <title>Karen-tastrophe - GMTK 2020 Theme: &#34;Out of Control&#34;</title>
+      <link>https://example.org/games/karen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/games/karen/</guid>
+      <description>Programming, Game Design: Henry Liu,  Nidhir Guggilla  Art, Graphics Design: Kethan Sivarapu,  Regina Yu  
+your browser cannot load this video   
+Welcome to your store. After 5 long years of work, you were finally promoted to regional manager. Unluckily for you, your store seems to be starting to attract Karens&amp;hellip; and they&amp;rsquo;re OUT OF CONTROL!  Succeed by eliminating all the Karens before they eat your staff and customers.</description>
+    </item>
+    
+    <item>
+      <title>more about me</title>
+      <link>https://example.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/about/</guid>
+      <description>Built with Hugo and Codex theme.
+I&amp;rsquo;m currently studying CS at Carnegie Mellon University. I got my start in computers through playing, and naturally wanting to make, video games. Right now, I&amp;rsquo;m working on a multiplayer platformer called Jumpers using Godot.
+I also like learning languages. I&amp;rsquo;m a native English and Mandarin speaker, and I&amp;rsquo;m currently learning Swahili, Spanish, and Japanese. I&amp;rsquo;m always looking for more opportunities to practice!
+My other interests include distance running, badminton, video editing, and SSBM.</description>
+    </item>
+    
+    <item>
+      <title>squarEscape - speedrunning friendly twinstick shooter</title>
+      <link>https://example.org/games/square/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/games/square/</guid>
+      <description>your browser cannot load this video   
+your browser cannot load this video   
+your browser cannot load this video   
+your browser cannot load this video   
+your browser cannot load this video   
+your browser cannot load this video   
+your browser cannot load this video   
+your browser cannot load this video</description>
+    </item>
+    
+  </channel>
+</rss>
