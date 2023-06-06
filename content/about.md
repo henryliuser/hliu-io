@@ -2,17 +2,19 @@
 title: "more about me"
 draft: false
 ---
+
+![me](/assets/me.png "me")
+
 Built with [Hugo](https://gohugo.io/) and [Codex](https://themes.gohugo.io/hugo-theme-codex/) theme.
 
+I'm a 4th year studying CS at CMU.
+My professional focus is in C++, systems programming, and parallel computing.
 
-I'm currently studying CS at Carnegie Mellon University. I got my start in computers through playing, and naturally wanting to make, video games. Right now, I'm working on a multiplayer platformer called Jumpers using Godot.
+Additionally, I'm interested in competitive programming, computer microarchitecture, and game development.
+I made a top 100 [submission](https://www.youtube.com/watch?v=_DaTsI42Wvo) to 3Blue1Brown's Summer of Math Exposition #2.
 
-![me](/assets/me.jpg "me")
 
-I also like learning languages. I'm a native English and Mandarin speaker, and I'm currently learning Swahili, Spanish, and Japanese. I'm always looking for more opportunities to practice!
-
-My other interests include distance running, badminton, video editing, and SSBM.
 
 {{<skip>}}
 
-Feel free to contact me with any business inquiries! You can reach me with any of the links below :)  
+Contact me:

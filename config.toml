@@ -5,7 +5,7 @@ theme = "hugo-theme-codex"
 title = "Henry Liu"
 languageCode = "en-us"
 baseURL = "https://example.org/"
-copyright = "© {2020}"
+copyright = "© {2023}"
 
 # Add your Disqus shortname here.
 # disqusShortname = ""

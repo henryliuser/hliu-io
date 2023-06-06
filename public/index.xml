@@ -13,8 +13,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://example.org/games/area51/</guid>
-      <description>Programming, Writing, Game Design: Henry Liu,  Nidhir Guggilla  Art, Graphics Design: Regina Yu  
-your browser cannot load this video   The year is 2119.  100 years have passed since the legendary Area 51 raid&amp;hellip; aliens have fully integrated into society. You are a human, an 18-year old University Student in the United States. Your parents have kicked you out. You are on your own. Education in America still costs a fortune and you have no assets or belongings to your name.</description>
+      <description>Programming, Writing, Game Design: Henry Liu, Nidhir Guggilla Art, Graphics Design: Regina Yu your browser cannot load this video The year is 2119. 100 years have passed since the legendary Area 51 raid&amp;hellip; aliens have fully integrated into society. You are a human, an 18-year old University Student in the United States. Your parents have kicked you out. You are on your own. Education in America still costs a fortune and you have no assets or belongings to your name.</description>
     </item>
     
     <item>
@@ -23,14 +22,7 @@ your browser cannot load this video   The year is 2119.  100 years have passed s
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://example.org/games/jumpers/</guid>
-      <description>Programming, Game Design: Henry Liu  Art, Graphics Design: Kethan Sivarapu  2D head-to-head multiplayer platforming 
- Added seesaw platforms and generic movement properties. 
-your browser cannot load this video   
- I think the old Shade still looks nicer. 
-your browser cannot load this video   
- Platform generation progress. 
-your browser cannot load this video   
- Bumper and missile spike obstacles.</description>
+      <description>Programming, Game Design: Henry Liu Art, Graphics Design: Kethan Sivarapu 2D head-to-head multiplayer platforming Added seesaw platforms and generic movement properties. your browser cannot load this video I think the old Shade still looks nicer. your browser cannot load this video Platform generation progress. your browser cannot load this video Bumper and missile spike obstacles. your browser cannot load this video The light shield makes its debut! your browser cannot load this video Discovering new damage boosting movement tech.</description>
     </item>
     
     <item>
@@ -39,9 +31,7 @@ your browser cannot load this video
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://example.org/games/karen/</guid>
-      <description>Programming, Game Design: Henry Liu,  Nidhir Guggilla  Art, Graphics Design: Kethan Sivarapu,  Regina Yu  
-your browser cannot load this video   
-Welcome to your store. After 5 long years of work, you were finally promoted to regional manager. Unluckily for you, your store seems to be starting to attract Karens&amp;hellip; and they&amp;rsquo;re OUT OF CONTROL!  Succeed by eliminating all the Karens before they eat your staff and customers.</description>
+      <description>Programming, Game Design: Henry Liu, Nidhir Guggilla Art, Graphics Design: Kethan Sivarapu, Regina Yu your browser cannot load this video Welcome to your store. After 5 long years of work, you were finally promoted to regional manager. Unluckily for you, your store seems to be starting to attract Karens&amp;hellip; and they&amp;rsquo;re OUT OF CONTROL! Succeed by eliminating all the Karens before they eat your staff and customers. Featuring vaccines, essential oils, toilet paper, and globes as usable items!</description>
     </item>
     
     <item>
@@ -51,9 +41,9 @@ Welcome to your store. After 5 long years of work, you were finally promoted to 
       
       <guid>https://example.org/about/</guid>
       <description>Built with Hugo and Codex theme.
-I&amp;rsquo;m currently studying CS at Carnegie Mellon University. I got my start in computers through playing, and naturally wanting to make, video games. Right now, I&amp;rsquo;m working on a multiplayer platformer called Jumpers using Godot.
-I also like learning languages. I&amp;rsquo;m a native English and Mandarin speaker, and I&amp;rsquo;m currently learning Swahili, Spanish, and Japanese. I&amp;rsquo;m always looking for more opportunities to practice!
-My other interests include distance running, badminton, video editing, and SSBM.</description>
+I&amp;rsquo;m a 4th year studying CS at Carnegie Mellon University. My professional focus is in C++, systems programming, and parallel computing.
+Additionally, I&amp;rsquo;m interested in competitive programming, computer microarchitecture, and game development. I made a top 100 submission to 3Blue1Brown&amp;rsquo;s Summer of Math Exposition #2.
+Contact me:</description>
     </item>
     
     <item>
@@ -62,14 +52,8 @@ My other interests include distance running, badminton, video editing, and SSBM.
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://example.org/games/square/</guid>
-      <description>your browser cannot load this video   
-your browser cannot load this video   
-your browser cannot load this video   
-your browser cannot load this video   
-your browser cannot load this video   
-your browser cannot load this video   
-your browser cannot load this video   
-your browser cannot load this video</description>
+      <description>
+your browser cannot load this video your browser cannot load this video your browser cannot load this video your browser cannot load this video your browser cannot load this video your browser cannot load this video your browser cannot load this video your browser cannot load this video your browser cannot load this video </description>
     </item>
     
   </channel>
